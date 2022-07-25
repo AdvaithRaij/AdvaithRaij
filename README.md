@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdvaithRaij
 - 👀 I’m interested in Computer Science and Technologies
 - 🌱 I’m currently learning Machine Learning
-- 📫 Reach me on LinkedIn - www.linkedin.com/in/advaith-r
+- 📫 Reach me on LinkedIn - www.linkedin.com/in/advaithr
 - 📲 Reach me on Instagram - @advaithh
 
 <!---
